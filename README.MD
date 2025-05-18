@@ -148,7 +148,7 @@ public class NoDeathMod {
 
 ---
 
-## License and Credit
+## License and Credits
 
 This mod is open-source and free to use under the MIT license.
 You are free to modify and redistribute it, provided that you clearly credit me as the original author in your distributions or modifications.
