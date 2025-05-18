@@ -5,7 +5,7 @@
 ## Description
 
 **NoDeathMod** est un mod Minecraft Forge qui empêche le joueur de mourir.  
-Lorsque le joueur subit des dégâts fatals, sa santé est bloquée à 1 coeur et demi au lieu de tomber à zéro, évitant ainsi la mort.
+Lorsque le joueur subit des dégâts fatals, sa santé est bloquée à 1 demi coeur au lieu de tomber à zéro, évitant ainsi la mort.
 
 Ce mod est simple, léger, et s'intègre à Minecraft 1.20.1.  
 Il utilise l'événement `LivingHurtEvent` pour intercepter et modifier les dégâts reçus par le joueur.
@@ -14,7 +14,7 @@ Il utilise l'événement `LivingHurtEvent` pour intercepter et modifier les dég
 
 ## Fonctionnalités principales
 
-- Bloque la santé du joueur à 1 coeur et demi lorsque les dégâts reçus devraient entraîner la mort.
+- Bloque la santé du joueur à 1 demi coeur lorsque les dégâts reçus devraient entraîner la mort.
 - Annule l'événement de dégâts fatal.
 - Mod minimaliste et efficace.
 
@@ -70,7 +70,7 @@ public class NoDeathMod {
 
 ---
 
-## Licence et crédits
+## Licence et Crédits
 
 Ce mod est open-source et libre d'utilisation sous licence MIT.
 Vous êtes libre de le modifier et de le redistribuer, à condition de me mentionner clairement en tant qu'auteur original dans vos distributions ou modifications.
@@ -101,7 +101,7 @@ It uses the `LivingHurtEvent` to intercept and modify damage taken by the player
 ## Installation
 
 1. Install Minecraft Forge 1.20.1.
-2. Place the `NoDeathMod.jar` file in your Minecraft `mods` folder.
+2. Place the `nodeathmod-1.0-SNAPSHOT.jar` file in your Minecraft `mods` folder.
 3. Launch Minecraft with the Forge profile.
 
 ---
@@ -109,7 +109,7 @@ It uses the `LivingHurtEvent` to intercept and modify damage taken by the player
 ## Usage
 
 No configuration needed; the mod is active on launch.  
-When you take fatal damage, you will remain with 1 health point instead of dying.
+When you take fatal damage, you will remain with 1.5 health point instead of dying.
 
 ---
 
