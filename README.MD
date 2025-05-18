@@ -78,7 +78,6 @@ Vous pouvez le modifier et le redistribuer sous les termes de la licence MIT.
 
 ___
 ___
-___
 
 ### ~~~ (ENGLISH VERSION) ~~~
 
@@ -155,11 +154,3 @@ public class NoDeathMod {
 
 This mod is open-source and free to use.  
 You may modify and redistribute it under the MIT License terms.
-
----
-
-## Contact
-
-Author: Sacha Cardone  
-Email: [your-email@example.com] (replace with your email if you want)  
-GitHub: [https://github.com/youraccount/no-death-mod](https://github.com/youraccount/no-death-mod) (optional)
